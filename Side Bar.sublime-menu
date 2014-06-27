@@ -1,0 +1,8 @@
+[
+	{
+		"caption": "Linea",
+		"children": [
+			{ "caption": "Create widget", "command": "linea", "args": {"dirs": []} }
+		]
+	}
+]
