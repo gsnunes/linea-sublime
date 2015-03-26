@@ -2,7 +2,8 @@
 	{
 		"caption": "Linea",
 		"children": [
-			{ "caption": "Create widget", "command": "linea", "args": {"dirs": []} }
+			{ "caption": "Create widget", "command": "linea", "args": {"dirs": [], "type": "widget"} },
+			{ "caption": "Create giraffe", "command": "linea", "args": {"dirs": [], "type": "giraffe"} }
 		]
 	}
 ]
